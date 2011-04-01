@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">UpOn:\nSimply Private</string>
+    <string name="app_name">UpOn</string>
+    <string name="instructions">Stop remote tracking and listening by turning your phone face down or upside down to engage \'Airplane Mode\'\n\n</string>
+</resources>
